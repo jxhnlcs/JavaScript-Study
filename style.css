@@ -1,0 +1,12 @@
+.meu {
+    position: relative;
+  }
+  
+.pc{
+    width: 200px;
+    height: 800px;
+    position: absolute;
+    top: 50%;
+    left: 43%;
+    margin: -25px 0 0 -25px; 
+  }
